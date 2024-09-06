@@ -3,22 +3,22 @@ entries:
   my-app:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2024-09-06T20:04:48.842248+05:30"
+    created: "2024-09-06T20:11:20.067071+05:30"
     description: A Helm chart for Kubernetes
     digest: f4cc2dbe06f1a366e9b6f78ec4e0c6841c40317e1fa2b4cdee481f029c05d1de
     name: my-app
     type: application
     urls:
-    - https://github.com/karthikvkreddy/helm-repo/my-app-0.2.0.tgz
+    - https://karthikvkreddy.github.io/helm-repo/my-app-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-06T20:04:48.841714+05:30"
+    created: "2024-09-06T20:11:20.066552+05:30"
     description: A Helm chart for Kubernetes
     digest: cb39c777d099e71daeae0e4c00b97d18de108a94775612e5ce59a3d1ea45d468
     name: my-app
     type: application
     urls:
-    - https://github.com/karthikvkreddy/helm-repo/my-app-0.1.0.tgz
+    - https://karthikvkreddy.github.io/helm-repo/my-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-06T20:04:48.841152+05:30"
+generated: "2024-09-06T20:11:20.066013+05:30"
